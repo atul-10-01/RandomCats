@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+
+}
+
+.h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f76565;
+    text-align: center;
+    padding: 3px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+button {
+    color: #f76565;
+    background: #1c183d;
+    padding: 4px;
+    margin-bottom: 40px;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    height: fit-content;
+    width: fit-content;
+}
